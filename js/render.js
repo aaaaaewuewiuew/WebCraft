@@ -65,7 +65,6 @@ function Renderer( id )
 	this.loadShaders();
 	
 	// Load player model
-	this.loadPlayerHeadModel();
 	this.loadPlayerBodyModel();
 	
 	// Create projection and view matrices
